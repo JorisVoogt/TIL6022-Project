@@ -17,7 +17,7 @@ and analyses their safety with regards to the countries GDP.
 """)
 
 # Read in prepared data set, rename a column and extract the different years
-df = pd.read_csv("Data/pg_GDP_map.csv")
+df = pd.read_csv("data/pg_GDP_map.csv")
 df = df.rename(columns={"pg_GDP": "index"})
 years = df.year.unique()
 
