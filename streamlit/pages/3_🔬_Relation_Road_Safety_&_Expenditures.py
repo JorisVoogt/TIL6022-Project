@@ -17,8 +17,8 @@ road expenditures.<br> Our hypothesis is that higher road expenditures increase 
             unsafe_allow_html=True)
 
 # Read in road safety and expenditures files
-df_safety = pd.read_csv('data/streamlit/road_safety.csv')
-df_expend = pd.read_csv('data/streamlit/road_expenditures.csv')
+df_safety = pd.read_csv('streamlit/data/app_data/road_safety.csv')
+df_expend = pd.read_csv('streamlit/data/app_data/road_expenditures.csv')
 
 # Concatenate required columns
 df = pd.concat([df_safety['Year'],
