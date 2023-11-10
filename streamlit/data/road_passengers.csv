@@ -1,0 +1,890 @@
+﻿"COUNTRY","Country","VARIABLE","Variable","YEAR","Year","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,267525,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,244955,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,238861,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,190183,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,200779,"B","Break"
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,204339,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,205158,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,306660,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,310787,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,378863,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,363318,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,355200,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,359928,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,368516,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,378044,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,373919,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,381854,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,387268,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,387957,,
+"KOR","Korea","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,339537,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,28387,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,29396,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,29652,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,29705,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,29770,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,29983,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,30339,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,29437,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,29394,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,22291,,
+"HRV","Croatia","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,25529,,
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,145600,,
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,147100,,
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,150900,,
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,152100,,
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,156400,"B","Break"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,156553,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,157083,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,159627,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,161700,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,167449,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,164834,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,163630,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,166605,"E","Estimated value"
+"NLD","Netherlands","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,163236,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,3467,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,3659,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,3739,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,3854,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,4115,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,4250,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,4458,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,4583,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,4711,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,4855,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,5145,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,5455,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,5730,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,5587,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,5647,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,5596,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,5392,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,5454,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,5611,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,5899,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,6296,"E","Estimated value"
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,7301,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,7984,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,8235,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,8167,,
+"ISL","Iceland","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,6316,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,78009,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,78973,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,80499,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,81109,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,82003,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,82774,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,83587,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,83937,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,84783,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,85757,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,87626.684209783,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,90239.259008148,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,92419.387321189,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,93400.149412342,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,94987.570779686,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,96362.440481672,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,97720.369848966,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,99158.08360765,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,101275.7072384,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,103104.041618,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,104331.24281709,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,105566.43633,,
+"CHE","Switzerland","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,86344.5984735,,
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,6519,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,6337,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,6591,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,6784,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,6022,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,5722,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,5387,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,5518,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,6000,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,6009,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,6667,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,7530,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,7110,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,7944,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,9243,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,9263,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,9261,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,11499,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,11698,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,11731,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,10352.105778,"E","Estimated value"
+"MKD","North Macedonia","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,11441.479629,"E","Estimated value"
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,251189,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,256866,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,271801,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,320972,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,341329,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,330263,"B","Break"
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,336520,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,362576,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,371137,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,383650,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,390973,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,390306,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,402456,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,403475,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,407444,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,392531,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,389763,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,375576,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,370375,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,348173,"B","Break"
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,363942,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,377643,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,363368,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,372744,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,375255,,
+"ESP","Spain","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,284467,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,694221,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,697747,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,709532,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,729859,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,746485,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,747054,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,770918,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,777226,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,779163,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,777323,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,767290,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,765879,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,771178,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,756610,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,757177,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,763941,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,764529,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,821372,"B","Break"
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,827658,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,839737,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,851217,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,865017,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,873037,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,871780,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,867852,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,718056,,
+"FRA","France","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,769146,,
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,4955,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,5233,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,3721,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,4924,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,5183,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,5299,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,5370,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,6065,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,6495,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,6481,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,6925,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,7350,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,7040,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,6437,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,7370,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,7905,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,7980,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,7637,"E","Estimated value"
+"ALB","Albania","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,8650,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,144724,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,155584,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,165128,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,175135,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,176250,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,189373,"B; E","Break; Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,187737,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,187875,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,192944,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,197895,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,201465,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,205289,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,209959,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,220343,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,226661,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,230461,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,229229,"B; E","Break; Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,228743,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,231117,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,236190,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,238150,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,250092,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,257610,"E","Estimated value"
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,262156,,
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,268491,,
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,232234,,
+"POL","Poland","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,252807,"E","Estimated value"
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,1626,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,1643,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,1421,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,1437,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,1678,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,1813,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,1959,,
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,2066,"E","Estimated value"
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,2223,"E","Estimated value"
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,2436,"E","Estimated value"
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,2521,"E","Estimated value"
+"ARM","Armenia","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,2521,"E","Estimated value"
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,701860,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,716119,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,728840,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,753054,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,755274,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,807481,"B","Break"
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,813276,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,808678,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,809307,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,815820,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,777968,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,779304,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,779713,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,778797,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,821618,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,800609,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,767772,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,680180,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,722138,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,745726,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,778858,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,806855,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,847598,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,825494,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,836722,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,546933,,
+"ITA","Italy","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,598582,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,661200,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,665465.47196005,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,676368.44245462,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,680577.52258647,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,688286.68197619,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,685066.07249072,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,697936.19970162,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,719619.46918281,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,714356.3389006,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,713486.3555,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,709177.5351,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,712903.081,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,713789.5654,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,709811.338,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,706186.1861,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,695783.8464,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,696289.4127,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,703196.6883,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,699484.0759,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,716223.8557,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,721385.3778,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,731444.369,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,745354.94,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,756707.0623,,
+"GBR","United Kingdom","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,770193.6377,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,42976.11,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,48622.88,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,48507.64,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,48367.23,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,48817.44,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,48028.54,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,46994.78,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,47782.34,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,47903.12,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,48988.48,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,47652.988000046,"B","Break"
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,50043.464372811,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,51118.94428099,,
+"NZL","New Zealand","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,54630.008565368,"P","Provisional value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,31452,,
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,34111,,
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,35927,,
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,37978,,
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,39993,,
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,40458,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,41083,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,41811,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,42029,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,42596,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,42484,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,42309,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,42577,"E","Estimated value"
+"GRC","Greece","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,42182,"E","Estimated value"
+"MLT","Malta","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,1939.6382437894,"P","Provisional value"
+"MLT","Malta","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,1953.8873719776,"P","Provisional value"
+"MLT","Malta","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,1968.1365001658,"P","Provisional value"
+"MLT","Malta","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,1982.385628354,"P","Provisional value"
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,1607,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,1615,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,3400,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,3910,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,4310,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,4510,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,4764,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,4920,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,5150,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,5200,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,5252,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,5269,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,5416,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,5568,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,5724,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,5885,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,6049,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,6219,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,6393,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,6572,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,6756,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,6945.2,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,7139.7,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,7339.6,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,7545.1,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,5855.8,,
+"GEO","Georgia","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,5211.6,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,29168,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,29090,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,28537,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,28142,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,29374,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,32364,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,32309,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,33214,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,32981,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,32214,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,33564,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,33736,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,33731,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,32962,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,31715,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,32021,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,32225,,
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,32235,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,32321,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,32532,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,32799,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,33665,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,34050,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,34699,"E","Estimated value"
+"SVK","Slovak Republic","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,34803,"E","Estimated value"
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,106400,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,106900,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,107497,"B","Break"
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,108152,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,110336,"B","Break"
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,113273,"B","Break"
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,114464,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,116344,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,117084,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,118077,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,117710,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,117951,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,120171,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,119160,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,118660,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,117935,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,119294,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,118479,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,118568,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,120664,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,122392,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,104243,"B","Break"
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,106088,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,107074,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,106492,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,99665,,
+"SWE","Sweden","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,98784,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,18542,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,21976,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,28939,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,38060,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,42755,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,42289,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,40943,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,38437,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,34917,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,32308,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,36578,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,35846,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,27038,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,27322,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,28215,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,33835,,
+"LTU","Lithuania","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,32702,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,189246,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,181865,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,179715,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,171912,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,172113,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,173596,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,171916,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,170435,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,165795,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,168462,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,142007,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,135711,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,149674,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,151897,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,141300,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,140628,"B","Break"
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,138567,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,133306,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,126379,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,127353,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,126622,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,124427,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,123442,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,122539,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,121942,,
+"RUS","Russian Federation","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,88220.2,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,4664,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,5005,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,6595,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,8517,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,8902,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,9153,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,9442,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,9603,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,9861,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,10279,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,10892,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,11786,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,12893,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,14041,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,15291,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,16633,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,18264,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,20034,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,21880,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,22992,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,23825,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,24429,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,24886,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,25276,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,25950,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,16974,,
+"AZE","Azerbaijan","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,16788,,
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,65473,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,65875,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,65534,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,68461,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,71049,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,73291,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,74078,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,74958,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,76809,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,76086,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,77248,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,79131,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,81059,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,81749,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,81784,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,74386,"B; E","Break; Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,74757,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,73275,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,73676,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,76270,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,79700.9,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,82512.1,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,85504.8,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,88921.4,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,91726,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,74380,"E","Estimated value"
+"CZE","Czech Republic","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,93335.1325,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,74490,,
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,78500,,
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,82400,,
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,87150,,
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,93080,,
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,94204,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,95009,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,95580,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,96541,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,97809,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,97518,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,97202,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,97722,"E","Estimated value"
+"PRT","Portugal","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,96756,"E","Estimated value"
+"IND","India","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,1359111,"E","Estimated value"
+"IND","India","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,1477333,"E","Estimated value"
+"IND","India","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,1595556,"E","Estimated value"
+"IND","India","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,1713778,"E","Estimated value"
+"IND","India","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,1832000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,2076000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,2413000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,2815000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,3070000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,3469000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,4252000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,4657000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,5482000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,6182000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,7192000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,8409000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,9478000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,10393000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,11756000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,13403000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,15415000,,
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,17496000,"E","Estimated value"
+"IND","India","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,19718000,"E","Estimated value"
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,155202,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,167871,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,180967,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,186159,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,175236,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,185681,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,168211,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,163327,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,164311,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,174312,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,182152,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,187593,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,209115,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,206098,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,212464,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,226913,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,242265,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,258874,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,268178,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,276073,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,290734,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,300852,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,314734,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,329363,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,339601,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,288992,,
+"TUR","Türkiye","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,336188,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,134,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,121,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,99,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,101,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,85,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,115,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,141,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,123,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,102,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,81,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,80,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,111,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,109,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,108,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,110,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,114,,
+"MNE","Montenegro, Republic of","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,114,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,104228,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,104096,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,107343,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,112960,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,116460,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,119400,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,121470,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,123960,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,124730,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,126800,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,126960,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,127990,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,130810,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,130620,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,131060,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,126773,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,127640,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,128046,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,121530,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,123980,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,122240,,
+"BEL","Belgium","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,119500,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,64542,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,64625,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,64915,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,64419,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,64294,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,64622,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,64506,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,64702,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,66122,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,67529,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,66638,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,69630,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,70447,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,70984,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,70477,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,68845,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,68510,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,68661,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,68788,,
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,70162.677,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,72220.7766,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,74976.9021,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,78745.268,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,82606.9168,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,85756.2439,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,77150.225,"E","Estimated value"
+"HUN","Hungary","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,80447.475,"E","Estimated value"
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,497000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,498000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,499000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,500000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,501000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,502000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,481000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,493000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,485000,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,488368,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,512736,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,510103,,
+"CAN","Canada","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,503471,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,883800,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,884400,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,885100,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,895600,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,916400,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,900300,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,921300,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,930500,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,925200,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,951493,"B","Break"
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,939389,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,945052,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,947807,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,950882,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,959694,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,962892,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,972357,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,972319,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,980246,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,995190,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,1008771,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,1027755,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,977430,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,978702,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,981452,,
+"DEU","Germany","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,854931,"P","Provisional value"
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,20451,"B","Break"
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,22095,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,23389,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,22856,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,24212,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,23827,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,24194,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,24626,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,24777,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,25260,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,25571,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,26139,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,27590,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,28024,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,28971,,
+"SVN","Slovenia","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,28819,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,58000,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,58400,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,59900,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,61100,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,62500,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,63400,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,64700,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,66000,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,67260,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,68545,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,69450,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,69995,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,71325,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,70940,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,71870,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,72285,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,73030,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,72810,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,72655,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,73060,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,73835,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,65262,"B","Break"
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,74800,"B","Break"
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,74800,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,74700,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,70900,,
+"FIN","Finland","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,69600,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,238963.4953005,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,242627.13632621,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,244104.35379953,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,246481.42055457,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,251919.06806397,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,256806.08421725,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,254426.90177657,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,260519.1862561,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,267143.38190997,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,279135.62501935,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,279904.61737105,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,275480.52842749,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,278956.61243652,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,280755.51153837,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,279946.68316454,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,281770.08650229,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,284788.79820055,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,287595.20072479,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,293369.30220828,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,297943.89901031,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,301444.63861019,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,303530.0107798,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,305705.15610768,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,308067.17045018,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,306963.41888892,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,282439.42530623,,
+"AUS","Australia","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,282449.06126269,,
+"SRB","Serbia, Republic of","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,12896,,
+"SRB","Serbia, Republic of","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,16697,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,917419,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,931720,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,944972,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,954808,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,955563,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,951251,"B","Break"
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,954293,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,955412,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,954186,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,947563,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,933005,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,917938,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,919062,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,905907,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,898720,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,876951,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,867573,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,892157,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,889795,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,876322,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,879935,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,891479,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,904967,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,917921,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,909598,,
+"JPN","Japan","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,769440,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,3899426,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,3985064,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,4078278,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,4204228,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,4277003,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,4353880,"B","Break"
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,4355728,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,4450661,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,4483127,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,4554468,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,4582280,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,4530078,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,5846312,"B","Break"
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,5654260,"B","Break"
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,5984972,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,5989833,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,6046500,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,6121616,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,6162599,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,6181776,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,6393041.818112,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,6512056,,
+"USA","United States","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,6558301,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,61292,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,62544,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,63378,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,63942,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,65010,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,64194,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,63386,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,63473,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,64016,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,65452,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,65517,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,66191,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,67815,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,67791,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,67236,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,66612,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,66612,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,67039,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,67551,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,67026.550518915,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,67544.075461366,,
+"DNK","Denmark","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,66544.317598197,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,48482,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,50545,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,51906,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,53478,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,54508,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,55314,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,56463,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,57612,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,58007,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,58573,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,58339,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,59196,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,60943,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,62103,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,62744,,
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,62718,"B","Break"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,63701,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,64482,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,65224,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,67273,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,68789,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,69251,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,70548,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,71131,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,71779,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,65599,"E","Estimated value"
+"NOR","Norway","T-PASS-RD-TOT","Road passenger transport","2021","2021","PKM","Passenger-kilometres","6","Millions",,,68232,"E","Estimated value"
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,22854.82871487,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,22203.494902637,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,22777.991988776,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,24990.064917353,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,26139.841151435,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,25464.117582981,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,25286.633953817,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,24807.918815452,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,28189.802854194,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,30231.20386274,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,32980.546529808,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,36054.702001354,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,36459.644967842,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,37328.292253227,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,38027.884634981,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,43970.071924153,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,43220.012559096,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,44054.443650011,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,42920.528858953,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,43361.325634848,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,44538.459082498,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,46838.665001874,,
+"ARG","Argentina","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,48784.351366258,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,104434.5,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,107297.8,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,110630.6,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,126145.2,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,163981.7,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,183385,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,203428.7,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,215238.5,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,221237.5,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,235716,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,240485.2,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,246812.6,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,260580.8,,
+"KAZ","Kazakhstan","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,91298.4,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","1995","1995","PKM","Passenger-kilometres","6","Millions",,,19800,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","1996","1996","PKM","Passenger-kilometres","6","Millions",,,19405.7,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","1997","1997","PKM","Passenger-kilometres","6","Millions",,,20837.8,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","1998","1998","PKM","Passenger-kilometres","6","Millions",,,22025.9,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","1999","1999","PKM","Passenger-kilometres","6","Millions",,,22434.1,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2000","2000","PKM","Passenger-kilometres","6","Millions",,,23300,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2001","2001","PKM","Passenger-kilometres","6","Millions",,,24300,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2002","2002","PKM","Passenger-kilometres","6","Millions",,,25800,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2003","2003","PKM","Passenger-kilometres","6","Millions",,,29000,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2004","2004","PKM","Passenger-kilometres","6","Millions",,,32500,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2005","2005","PKM","Passenger-kilometres","6","Millions",,,38600,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2006","2006","PKM","Passenger-kilometres","6","Millions",,,42200,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2007","2007","PKM","Passenger-kilometres","6","Millions",,,48400,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2008","2008","PKM","Passenger-kilometres","6","Millions",,,55900,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2009","2009","PKM","Passenger-kilometres","6","Millions",,,62121,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2010","2010","PKM","Passenger-kilometres","6","Millions",,,74512.091851514,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2011","2011","PKM","Passenger-kilometres","6","Millions",,,82544.148303156,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2012","2012","PKM","Passenger-kilometres","6","Millions",,,89326.44744633,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2013","2013","PKM","Passenger-kilometres","6","Millions",,,95469.328930278,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2014","2014","PKM","Passenger-kilometres","6","Millions",,,101862.99643145,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2015","2015","PKM","Passenger-kilometres","6","Millions",,,109112.93652923,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2016","2016","PKM","Passenger-kilometres","6","Millions",,,114910.2671,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2017","2017","PKM","Passenger-kilometres","6","Millions",,,117659.567,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2018","2018","PKM","Passenger-kilometres","6","Millions",,,121599.4893,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2019","2019","PKM","Passenger-kilometres","6","Millions",,,124141.2,,
+"UZB","Uzbekistan","T-PASS-RD-TOT","Road passenger transport","2020","2020","PKM","Passenger-kilometres","6","Millions",,,113200,,
