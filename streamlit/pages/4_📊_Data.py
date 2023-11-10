@@ -14,8 +14,8 @@ st.markdown("""<p style='text-align: center; color: white;'>Here, you can look t
 project.</p>""", unsafe_allow_html=True)
 
 # Read in safety and expenditures dataframes
-df_saf = pd.read_csv('data/streamlit/road_safety.csv')
-df_exp = pd.read_csv('data/streamlit/road_expenditures.csv')
+df_saf = pd.read_csv('streamlit/data/app_data/road_safety.csv')
+df_exp = pd.read_csv('streamlit/data/app_data/road_expenditures.csv')
 
 # Create data selection
 data = st.sidebar.selectbox('Select dataset:', ['Road Safety', 'Road Expenditures'])

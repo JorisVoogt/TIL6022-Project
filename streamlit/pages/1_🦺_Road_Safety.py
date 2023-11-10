@@ -21,7 +21,7 @@ st.markdown("<p style='text-align: center; color: white;'>"
             "<br>On the sidebar, a country and year can be chosen to investigate.</p>", unsafe_allow_html=True)
 
 # Read in road safety file
-df = pd.read_csv('data/streamlit/road_safety.csv')
+df = pd.read_csv('streamlit/data/app_data/road_safety.csv')
 
 # Create country and year selections
 country = st.sidebar.selectbox('Select country:', df['Country'].unique())

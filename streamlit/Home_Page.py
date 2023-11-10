@@ -25,8 +25,8 @@ st.markdown("""<p style='text-align: center; color: white;'>Below, you can play 
 analyzed on the subsequent pages. Pick a year to visualize the data on the globes.</p>""", unsafe_allow_html=True)
 
 # Read in dataframes
-df_saf = pd.read_csv('data/streamlit/road_safety.csv')
-df_exp = pd.read_csv('data/streamlit/road_expenditures.csv')
+df_saf = pd.read_csv('streamlit/data/app_data/road_safety.csv')
+df_exp = pd.read_csv('streamlit/data/app_data/road_expenditures.csv')
 
 # Create year selection
 year = st.select_slider('Select year:', df_saf['Year'].unique())
@@ -52,7 +52,6 @@ with col1:
     fig_world_saf = px.choropleth(df_saf_year,
                                   locations='COUNTRY',
                                   color='Injuries_passenger_kilometres',
-                                  hover_name='Country',
                                   color_continuous_scale='Viridis',
                                   projection='orthographic',
                                   range_color=(0, max_injuries),
@@ -78,7 +77,6 @@ with col2:
     fig_world_exp = px.choropleth(df_exp_year,
                                   locations='Location',
                                   color='Total_Perc',
-                                  #hover_name='Country',
                                   color_continuous_scale='Viridis',
                                   projection='orthographic',
                                   range_color=(0, max_expenditures),

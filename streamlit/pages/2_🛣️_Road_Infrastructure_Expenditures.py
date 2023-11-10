@@ -18,7 +18,7 @@ chosen to investigate and compare countries, or a country can be chosen to inves
 change over the years.</p>""", unsafe_allow_html=True)
 
 # Read in road expenditures file
-df = pd.read_csv('data/streamlit/road_expenditures.csv')
+df = pd.read_csv('streamlit/data/app_data/road_expenditures.csv')
 
 # Create year and country selections
 year = st.sidebar.select_slider('Select year:', df['Year'].unique())
