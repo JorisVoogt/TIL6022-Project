@@ -50,7 +50,7 @@ with col1:
 
     # Create world plot injuries
     fig_world_saf = px.choropleth(df_saf_year,
-                                  locations='COUNTRY',
+                                  locations='Location',
                                   color='Injuries_passenger_kilometres',
                                   color_continuous_scale='Viridis',
                                   projection='orthographic',
